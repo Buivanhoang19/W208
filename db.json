@@ -1,0 +1,246 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/4/1.jpg",
+        "https://cdn.dummyjson.com/product-images/4/2.jpg",
+        "https://cdn.dummyjson.com/product-images/4/3.jpg",
+        "https://cdn.dummyjson.com/product-images/4/4.jpg",
+        "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/5/1.jpg",
+        "https://cdn.dummyjson.com/product-images/5/2.jpg",
+        "https://cdn.dummyjson.com/product-images/5/3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/6/1.png",
+        "https://cdn.dummyjson.com/product-images/6/2.jpg",
+        "https://cdn.dummyjson.com/product-images/6/3.png",
+        "https://cdn.dummyjson.com/product-images/6/4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/7/1.jpg",
+        "https://cdn.dummyjson.com/product-images/7/2.jpg",
+        "https://cdn.dummyjson.com/product-images/7/3.jpg",
+        "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/9/1.jpg",
+        "https://cdn.dummyjson.com/product-images/9/2.png",
+        "https://cdn.dummyjson.com/product-images/9/3.png",
+        "https://cdn.dummyjson.com/product-images/9/4.jpg",
+        "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/10/1.jpg",
+        "https://cdn.dummyjson.com/product-images/10/2.jpg",
+        "https://cdn.dummyjson.com/product-images/10/3.jpg",
+        "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "- Daal Masoor 500 grams",
+      "description": "Fine quality Branded Product Keep in a cool and dry place",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Saaf & Khaas",
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/21/1.png",
+        "https://cdn.dummyjson.com/product-images/21/2.jpg",
+        "https://cdn.dummyjson.com/product-images/21/3.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Elbow Macaroni - 400 gm",
+      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Bake Parlor Big",
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/22/1.jpg",
+        "https://cdn.dummyjson.com/product-images/22/2.jpg",
+        "https://cdn.dummyjson.com/product-images/22/3.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Orange Essence Food Flavou",
+      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Baking Food Items",
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/23/1.jpg",
+        "https://cdn.dummyjson.com/product-images/23/2.jpg",
+        "https://cdn.dummyjson.com/product-images/23/3.jpg",
+        "https://cdn.dummyjson.com/product-images/23/4.jpg",
+        "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "cereals muesli fruit nuts",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "fauji",
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/24/1.jpg",
+        "https://cdn.dummyjson.com/product-images/24/2.jpg",
+        "https://cdn.dummyjson.com/product-images/24/3.jpg",
+        "https://cdn.dummyjson.com/product-images/24/4.jpg",
+        "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Gulab Powder 50 Gram",
+      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Dry Rose",
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/25/1.png",
+        "https://cdn.dummyjson.com/product-images/25/2.jpg",
+        "https://cdn.dummyjson.com/product-images/25/3.png",
+        "https://cdn.dummyjson.com/product-images/25/4.jpg",
+        "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Plant Hanger For Home",
+      "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Boho Decor",
+      "category": "home-decoration",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/26/1.jpg",
+        "https://cdn.dummyjson.com/product-images/26/2.jpg",
+        "https://cdn.dummyjson.com/product-images/26/3.jpg",
+        "https://cdn.dummyjson.com/product-images/26/4.jpg",
+        "https://cdn.dummyjson.com/product-images/26/5.jpg",
+        "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "hoangbvph34091@fpt.edu.vn",
+      "password": "$2a$10$DI5CJogBYnelt1Jdpy58AuoA3syYqbYOZyuXFRNbvF1BpPRtE8/8q",
+      "id": 1
+    },
+    {
+      "email": "buihoang19122003@gmail.com",
+      "password": "$2a$10$UGvcg5Z/aI7bFjlklnGOiuw6qOFYjUAfQ8psnNrmW/Iq3lM2mRicS",
+      "id": 2
+    },
+    {
+      "email": "aaaaaaaa@gmail.com",
+      "password": "$2a$10$AalOjzociY3e8wiWahoo.uSyE0sJ7T.r18AiHkGca/BaLomT1lhNq",
+      "id": 3
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$xdUCcdNKRet.n176o/lGz.298LlW3OEt5GTjo/B6fFxSjDghGdeVO",
+      "id": 4
+    }
+  ]
+}

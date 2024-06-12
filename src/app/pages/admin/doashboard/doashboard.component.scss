@@ -1,0 +1,36 @@
+table{
+  
+    width:100%;
+    border:1px solid black;
+  }
+  th{
+    width: 50px;
+    border:1px solid black;
+  }
+  td{
+    border:1px solid black;
+  }
+  
+  img{
+    width: 250px;
+  }
+  
+  .menu li {
+    color: #f1f1f1;
+    list-style-type: none;
+    width: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: -100px;
+  }
+  
+  .menu a:hover {
+    background: #8d8686;
+    color: #333;
+  }
+  // button{
+  //   background-color: aqua;
+  //   border-radius: 2px solid #ccc;
+  //   text-align: center;
+  //   align-items: center;
+  // }
